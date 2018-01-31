@@ -1,0 +1,31 @@
+{
+  "name": "get-runtime",
+  "version": "0.0.0",
+  "description": "A simple command line tool to measure the runtime of a Node program (and get the average)",
+  "main": "index.js",
+  "author": "TheOdd",
+  "license": "MIT",
+  "repository": "https://github.com/TheOdd/get-runtime",
+  "keywords": [
+    "cli-app",
+    "cli",
+    "measure",
+    "check",
+    "time",
+    "ms",
+    "runtime",
+    "executiontime",
+    "execution",
+    "run",
+    "test",
+    "debug",
+    "tool",
+    "utility"
+  ],
+  "bin": {
+    "get-runtime": "./index.js"
+  },
+  "dependencies": {
+    "node-run-cmd": "^1.0.1"
+  }
+}

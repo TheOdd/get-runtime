@@ -1,6 +1,6 @@
 {
   "name": "get-runtime",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple command line tool to measure the runtime of a Node program (and get the average)",
   "main": "index.js",
   "author": "TheOdd",

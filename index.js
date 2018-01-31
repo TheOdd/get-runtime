@@ -25,7 +25,7 @@ async function measureTime(timesToRun = 1) {
 
 if (args.length !== 1 && args.length !== 2) {
     console.log('Please provide a valid input! (One JS file to run and measure)')
-    console.log('Usage:\n\truntimes [inputFile] [optional number of times to run]')
+    console.log('Usage:\n\tget-runtime [inputFile] [optional number of times to run]')
     process.exit()
 }
 
